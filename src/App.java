@@ -33,6 +33,7 @@ public class App {
 				right--;
 			}
 		}
+		
 		Arrays.sort(sortedSquares);
 		return sortedSquares;
 	}
